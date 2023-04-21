@@ -19,4 +19,4 @@ Also familiar with...
 
 I'm running my own YouTube channel. Please subscribe!
 
-[[!My YouTube](http://img.youtube.com/vi/To6FawdKFwM/maxresdefault.jpg)](https://www.youtube.com/channel/UCP_pT5slj41UApKnR0JknOA)
+[![My YouTube](http://img.youtube.com/vi/To6FawdKFwM/maxresdefault.jpg)](https://www.youtube.com/channel/UCP_pT5slj41UApKnR0JknOA)
