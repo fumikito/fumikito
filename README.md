@@ -5,7 +5,7 @@ Fumiki Takahashi is a Japanese writer, web developer, and father of four childre
 [![Fumiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=fumikito)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Skill Sets
+## Skill Sets 🪛
 
 I'm a WordPress developer. Please visit [my profile](https://profiles.wordpress.org/takahashi_fumiki/) on WordPress.org!
 
@@ -15,8 +15,8 @@ Also familiar with...
 - JavaScript(Node, React)
 - HTML + CSS
 
-## Fun Fact
+## Fun Fact 📺
 
-I'm running my own YouTube channel. Please subscribe!
+I'm running my own YouTube channel. Please subscribe! 😁
 
 [![My YouTube](http://img.youtube.com/vi/To6FawdKFwM/maxresdefault.jpg)](https://www.youtube.com/channel/UCP_pT5slj41UApKnR0JknOA)
