@@ -15,8 +15,18 @@ Also familiar with...
 - JavaScript(Node, React)
 - HTML + CSS
 
-## Fun Fact 📺
+## Fun Fact
 
-I'm running my own YouTube channel. Please subscribe! 😁
+### Youtuber 📺
+
+I'm running my own YouTube channel. Please [subscribe](https://www.youtube.com/c/takahashifumiki)! 😁
 
 [![My YouTube](http://img.youtube.com/vi/To6FawdKFwM/maxresdefault.jpg)](https://www.youtube.com/channel/UCP_pT5slj41UApKnR0JknOA)
+
+## Writing Novel on GitHub 📝
+
+As a fiction writer, I write several literary works on GitHub and some of theme are published as printed copies!
+
+If you are interesting about git-based writing, [share with me](https://twitter.com/takahashifumiki) your opinion, knowledge, and so on.
+
+A littel bit old, but my typical repo: [fumikito/noveljam2018](https://github.com/fumikito/noveljam2018)
